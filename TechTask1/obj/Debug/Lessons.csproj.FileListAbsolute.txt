@@ -1,0 +1,8 @@
+D:\C+\Lessons\bin\Debug\Lessons.exe.config
+D:\C+\Lessons\bin\Debug\Lessons.exe
+D:\C+\Lessons\bin\Debug\Lessons.pdb
+D:\C+\Lessons\obj\Debug\Lessons.csproj.AssemblyReference.cache
+D:\C+\Lessons\obj\Debug\Lessons.csproj.SuggestedBindingRedirects.cache
+D:\C+\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+D:\C+\Lessons\obj\Debug\Lessons.exe
+D:\C+\Lessons\obj\Debug\Lessons.pdb
